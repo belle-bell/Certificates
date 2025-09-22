@@ -8,10 +8,10 @@ Portfólio pessoal de aprendizado: cursos concluídos e certificados.
 
 | Course | Platform | Certificate / Notes |
 |--------|---------|-------------------|
-| Basic Statistics | University of Amsterdam (Coursera) | [Certificate](Certificates/Basic_Statistics.pdf) |
-| Cybersecurity for Everyone | University of Maryland, College Park (Coursera) | [Certificate](Certificates/Cybersecurity_for_Everyone.pdf) |
-| Prompt Engineering for ChatGPT | Vanderbilt University (Coursera) | [Certificate](Certificates/Prompt_Engineering_for_ChatGPT.pdf) |
-| Introduction to Cloud Computing | IBM (Coursera) | [Certificate](Certificates/Cloud_Computing.pdf) |
+| Basic Statistics | University of Amsterdam | [Certificate](Certificates/Basic_Statistics.pdf) |
+| Cybersecurity for Everyone | University of Maryland, College Park | [Certificate](Certificates/Cybersecurity_for_Everyone.pdf) |
+| Prompt Engineering for ChatGPT | Vanderbilt University | [Certificate](Certificates/Prompt_Engineering_for_ChatGPT.pdf) |
+| Introduction to Cloud Computing | IBM | [Certificate](Certificates/Cloud_Computing.pdf) |
 | Fundamentos de Linguagem Python para Análise de Dados - Nível Intermediário | Data Science Academy (DSA) | [Certificate](Certificates/Fundamentos_Linguagem_Python.pdf) |
 | Data Science Basics | [CEUB] | [Certificate](Certificates/DATA_SCIENCE_BASICS.PDF) |     
 
